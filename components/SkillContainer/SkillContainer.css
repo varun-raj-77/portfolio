@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;600&display=swap');
+
+.skillContainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 200px 0px;
+}
+
+.skillContainer__text{
+    color: white;
+    flex: 0.6;
+    text-align: left;
+}
+
+img {
+    width: 50%;
+    padding-left: 100px;
+    margin-right: 0%;
+}
+
+.skillContainer__text > h5{
+    color: white;
+    align-items:center;
+    justify-content:left;
+    font-weight: 300;
+    padding-bottom: 30px;
+    padding-top: 10px;
+}
+
+.skillContainer__text > h2{
+    align-items: center;  
+    font-size: 50px;
+    padding-right: 50%; 
+}
